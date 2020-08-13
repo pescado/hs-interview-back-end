@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewStarter", "InterviewStarter\InterviewStarter.csproj", "{56CBF46C-5C5E-4C3E-BADE-A05D2F12D246}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTest.Test", "InterviewTest.Test\InterviewTest.Test.csproj", "{5886EB51-1C30-4491-90C1-9DAF8C80B5C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewStarter.Data", "InterviewStarter.Data\InterviewStarter.Data.csproj", "{2DA705B4-8EF3-4E07-94B6-69A3B4B0F0B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewStarter.Data", "InterviewStarter.Data\InterviewStarter.Data.csproj", "{2DA705B4-8EF3-4E07-94B6-69A3B4B0F0B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8206D6AA-9966-4C47-8E40-D02FA8F0926C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
