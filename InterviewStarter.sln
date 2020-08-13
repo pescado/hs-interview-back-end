@@ -34,19 +34,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {49988C60-FDA6-4440-B701-A4D95559CEA3}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://homesphere.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = InterviewStarter\\InterviewStarter.csproj
-		SccProjectName1 = InterviewStarter
-		SccLocalPath1 = InterviewStarter
-		SccProjectUniqueName2 = InterviewTest.Test\\InterviewTest.Test.csproj
-		SccProjectName2 = InterviewTest.Test
-		SccLocalPath2 = InterviewTest.Test
-		SccProjectUniqueName3 = InterviewStarter.Data\\InterviewStarter.Data.csproj
-		SccProjectName3 = InterviewStarter.Data
-		SccLocalPath3 = InterviewStarter.Data
-	EndGlobalSection
 EndGlobal
